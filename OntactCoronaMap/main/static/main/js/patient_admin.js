@@ -1,7 +1,7 @@
 // 마커를 담을 배열입니다
 var markers = [];
 
-var defaultx = 37.65472046766666
+var defaultx = 37.65472046766666  #노원구보건소 좌표
 var defaulty = 127.05702045521271
 var mapContainer = document.getElementById('map'), // 지도를 표시할 div
     mapOption = {

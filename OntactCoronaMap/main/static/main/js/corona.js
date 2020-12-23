@@ -12,7 +12,7 @@ var mon = day.getMonth()+1
 var dt = day.getDate()
 
 // 노원구 보건소 좌표를 중심으로 map 생성 (각 지역의 중심 좌표를 입력하세요)
-var defaultx = 37.65472046766666
+var defaultx = 37.65472046766666 #노원구보건소 좌표
 var defaulty = 127.05702045521271
 var mapContainer = document.getElementById('map'), // 지도를 표시할 div
     mapOption = {

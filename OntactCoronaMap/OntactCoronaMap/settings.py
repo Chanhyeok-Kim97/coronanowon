@@ -25,7 +25,7 @@ SECRET_KEY = '=jw=kx(j7vl0l_d$0jkhy5!9fnyuhjd!_jer@u8a147r#rvj2^'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://coronamap-nowon.site/']
 
 
 # Application definition
